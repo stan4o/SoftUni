@@ -1,3 +1,3 @@
 # SoftUni
 
-- C# Basics course
+- C# Basics Course
