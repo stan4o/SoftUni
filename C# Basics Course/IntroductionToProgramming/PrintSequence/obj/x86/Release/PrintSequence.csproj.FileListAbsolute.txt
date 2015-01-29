@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintSequence\bin\Release\PrintSequence.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintSequence\bin\Release\PrintSequence.pdb
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintSequence\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintSequence\obj\x86\Release\PrintSequence.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintSequence\obj\x86\Release\PrintSequence.pdb

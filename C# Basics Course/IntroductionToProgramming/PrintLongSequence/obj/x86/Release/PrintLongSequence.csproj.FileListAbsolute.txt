@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintLongSequence\bin\Release\PrintLongSequence.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintLongSequence\bin\Release\PrintLongSequence.pdb
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintLongSequence\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintLongSequence\obj\x86\Release\PrintLongSequence.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintLongSequence\obj\x86\Release\PrintLongSequence.pdb

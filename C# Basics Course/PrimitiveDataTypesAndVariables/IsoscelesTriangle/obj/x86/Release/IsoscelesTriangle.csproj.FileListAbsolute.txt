@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\IsoscelesTriangle\bin\Release\IsoscelesTriangle.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\IsoscelesTriangle\bin\Release\IsoscelesTriangle.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\IsoscelesTriangle\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\IsoscelesTriangle\obj\x86\Release\IsoscelesTriangle.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\IsoscelesTriangle\obj\x86\Release\IsoscelesTriangle.pdb

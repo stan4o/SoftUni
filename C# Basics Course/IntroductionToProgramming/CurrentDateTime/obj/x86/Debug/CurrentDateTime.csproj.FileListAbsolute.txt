@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Debug\CurrentDateTime.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Debug\CurrentDateTime.pdb

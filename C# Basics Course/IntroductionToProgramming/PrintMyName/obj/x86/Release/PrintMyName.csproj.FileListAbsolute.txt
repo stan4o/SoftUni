@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintMyName\bin\Release\PrintMyName.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintMyName\bin\Release\PrintMyName.pdb
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintMyName\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintMyName\obj\x86\Release\PrintMyName.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintMyName\obj\x86\Release\PrintMyName.pdb

@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\EmployeeData\bin\Release\EmployeeData.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\EmployeeData\bin\Release\EmployeeData.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\EmployeeData\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\EmployeeData\obj\x86\Release\EmployeeData.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\EmployeeData\obj\x86\Release\EmployeeData.pdb

@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\x86\Debug\DeclareVariables.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\x86\Debug\DeclareVariables.pdb

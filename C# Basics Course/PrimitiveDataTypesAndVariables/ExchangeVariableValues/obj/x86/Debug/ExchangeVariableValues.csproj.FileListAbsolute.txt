@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\x86\Debug\ExchangeVariableValues.pdb

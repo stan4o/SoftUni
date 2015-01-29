@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Release\NullValuesArithmetic.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Release\NullValuesArithmetic.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\x86\Release\NullValuesArithmetic.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\x86\Release\NullValuesArithmetic.pdb

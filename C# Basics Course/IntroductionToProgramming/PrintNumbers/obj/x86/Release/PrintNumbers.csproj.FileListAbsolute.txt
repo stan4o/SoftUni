@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintNumbers\bin\Release\PrintNumbers.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintNumbers\bin\Release\PrintNumbers.pdb
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintNumbers\obj\x86\Release\PrintNumbers.exe
+D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintNumbers\obj\x86\Release\PrintNumbers.pdb
