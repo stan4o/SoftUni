@@ -4,7 +4,7 @@ class JoroTheFootballPlayer
 {
     static void Main()
     {
-        double plays = 0;
+        double plays = 0.0d;
         int weekends = 52;
         char leapYear = char.Parse(Console.ReadLine());
         int holidays = int.Parse(Console.ReadLine());
