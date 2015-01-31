@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\Sunglasses\bin\Release\Sunglasses.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\Sunglasses\bin\Release\Sunglasses.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\Sunglasses\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\Sunglasses\obj\x86\Release\Sunglasses.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\Sunglasses\obj\x86\Release\Sunglasses.pdb
