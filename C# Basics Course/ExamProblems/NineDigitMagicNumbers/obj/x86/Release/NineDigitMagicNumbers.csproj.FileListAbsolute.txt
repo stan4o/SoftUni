@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\NineDigitMagicNumbers\bin\Release\NineDigitMagicNumbers.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\NineDigitMagicNumbers\bin\Release\NineDigitMagicNumbers.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\NineDigitMagicNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\NineDigitMagicNumbers\obj\x86\Release\NineDigitMagicNumbers.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\ExamProblems\NineDigitMagicNumbers\obj\x86\Release\NineDigitMagicNumbers.pdb
