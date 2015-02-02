@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Release\OddOrEvenIntegers.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\OddOrEvenIntegers\bin\Release\OddOrEvenIntegers.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\x86\Release\OddOrEvenIntegers.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\OddOrEvenIntegers\obj\x86\Release\OddOrEvenIntegers.pdb

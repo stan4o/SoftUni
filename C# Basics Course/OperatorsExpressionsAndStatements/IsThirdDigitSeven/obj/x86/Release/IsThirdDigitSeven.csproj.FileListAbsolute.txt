@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\IsThirdDigitSeven\bin\Release\IsThirdDigitSeven.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\IsThirdDigitSeven\bin\Release\IsThirdDigitSeven.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\IsThirdDigitSeven\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\IsThirdDigitSeven\obj\x86\Release\IsThirdDigitSeven.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\IsThirdDigitSeven\obj\x86\Release\IsThirdDigitSeven.pdb

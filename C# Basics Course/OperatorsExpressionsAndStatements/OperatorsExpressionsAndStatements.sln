@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenIntegers", "OddOrEvenIntegers\OddOrEvenIntegers.csproj", "{CDECB404-AF13-4B86-946B-FC2EACE1A99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravitation", "MoonGravitation\MoonGravitation.csproj", "{CD7FE709-6160-4AF9-B2EE-DD641740BA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideBySevenAndFive", "DivideBySevenAndFive\DivideBySevenAndFive.csproj", "{30AB7A6E-6636-4426-A366-0750AAC0B73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{B8BF6E98-E198-4E04-8191-EC6A864E2DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThirdDigitSeven", "IsThirdDigitSeven\IsThirdDigitSeven.csproj", "{44ECD798-59E8-4F9F-9C1E-747217E8637F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitNumber", "FourDigitNumber\FourDigitNumber.csproj", "{DD50F092-3367-41DE-93D2-05D81733FF5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDECB404-AF13-4B86-946B-FC2EACE1A99C}.Debug|x86.ActiveCfg = Debug|x86
+		{CDECB404-AF13-4B86-946B-FC2EACE1A99C}.Debug|x86.Build.0 = Debug|x86
+		{CDECB404-AF13-4B86-946B-FC2EACE1A99C}.Release|x86.ActiveCfg = Release|x86
+		{CDECB404-AF13-4B86-946B-FC2EACE1A99C}.Release|x86.Build.0 = Release|x86
+		{CD7FE709-6160-4AF9-B2EE-DD641740BA76}.Debug|x86.ActiveCfg = Debug|x86
+		{CD7FE709-6160-4AF9-B2EE-DD641740BA76}.Debug|x86.Build.0 = Debug|x86
+		{CD7FE709-6160-4AF9-B2EE-DD641740BA76}.Release|x86.ActiveCfg = Release|x86
+		{CD7FE709-6160-4AF9-B2EE-DD641740BA76}.Release|x86.Build.0 = Release|x86
+		{30AB7A6E-6636-4426-A366-0750AAC0B73D}.Debug|x86.ActiveCfg = Debug|x86
+		{30AB7A6E-6636-4426-A366-0750AAC0B73D}.Debug|x86.Build.0 = Debug|x86
+		{30AB7A6E-6636-4426-A366-0750AAC0B73D}.Release|x86.ActiveCfg = Release|x86
+		{30AB7A6E-6636-4426-A366-0750AAC0B73D}.Release|x86.Build.0 = Release|x86
+		{B8BF6E98-E198-4E04-8191-EC6A864E2DC5}.Debug|x86.ActiveCfg = Debug|x86
+		{B8BF6E98-E198-4E04-8191-EC6A864E2DC5}.Debug|x86.Build.0 = Debug|x86
+		{B8BF6E98-E198-4E04-8191-EC6A864E2DC5}.Release|x86.ActiveCfg = Release|x86
+		{B8BF6E98-E198-4E04-8191-EC6A864E2DC5}.Release|x86.Build.0 = Release|x86
+		{44ECD798-59E8-4F9F-9C1E-747217E8637F}.Debug|x86.ActiveCfg = Debug|x86
+		{44ECD798-59E8-4F9F-9C1E-747217E8637F}.Debug|x86.Build.0 = Debug|x86
+		{44ECD798-59E8-4F9F-9C1E-747217E8637F}.Release|x86.ActiveCfg = Release|x86
+		{44ECD798-59E8-4F9F-9C1E-747217E8637F}.Release|x86.Build.0 = Release|x86
+		{DD50F092-3367-41DE-93D2-05D81733FF5E}.Debug|x86.ActiveCfg = Debug|x86
+		{DD50F092-3367-41DE-93D2-05D81733FF5E}.Debug|x86.Build.0 = Debug|x86
+		{DD50F092-3367-41DE-93D2-05D81733FF5E}.Release|x86.ActiveCfg = Release|x86
+		{DD50F092-3367-41DE-93D2-05D81733FF5E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
