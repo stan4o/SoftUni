@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PointInCircleAndOutOfRectangle\bin\Release\PointInCircleAndOutOfRectangle.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PointInCircleAndOutOfRectangle\bin\Release\PointInCircleAndOutOfRectangle.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PointInCircleAndOutOfRectangle\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PointInCircleAndOutOfRectangle\obj\x86\Release\PointInCircleAndOutOfRectangle.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PointInCircleAndOutOfRectangle\obj\x86\Release\PointInCircleAndOutOfRectangle.pdb

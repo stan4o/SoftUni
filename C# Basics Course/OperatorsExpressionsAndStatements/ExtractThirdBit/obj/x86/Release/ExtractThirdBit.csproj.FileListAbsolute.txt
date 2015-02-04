@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractThirdBit\bin\Release\ExtractThirdBit.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractThirdBit\bin\Release\ExtractThirdBit.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractThirdBit\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractThirdBit\obj\x86\Release\ExtractThirdBit.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractThirdBit\obj\x86\Release\ExtractThirdBit.pdb
