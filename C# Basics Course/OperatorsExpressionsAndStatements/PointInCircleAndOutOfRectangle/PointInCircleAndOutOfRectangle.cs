@@ -79,17 +79,19 @@ class PointInCircleAndOutOfRectangle
         double width = 6d;
         double height = 2d;
 
-        // Initialize rectangle
-        Rect Rectangle = new Rect();
+        //// Initialize rectangle
+        //Rect Rectangle = new Rect();
 
-        // Set location
-        Rectangle.Location = new Point(top, left);
+        //// Set location
+        //Rectangle.Location = new Point(top, left);
 
-        // Set width and height
-        Rectangle.Size = new Size(width, height);
+        //// Set width and height
+        //Rectangle.Size = new Size(width, height);
 
-        // Check if point is in rectangle
-        bool inRectangle = Rectangle.Contains(new Point(x, y));
+        //// Check if point is in rectangle
+        //bool inRectangle = Rectangle.Contains(new Point(x, y));
+
+        bool inRectangle = (x >= left && x <= (left + width)) && (y <= top && y >= (top - height));
 
         return inRectangle;
     }

@@ -5,32 +5,46 @@ class PrimeNumberCheck
     static void Main()
     {
         int baundary = 100;
-        int n = 1;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        Console.WriteLine("Check number for primality!");
+        int n = int.Parse(Console.ReadLine());
 
-        n = 2;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        if (n > 100)
+        {
+            Console.WriteLine("Please write a number less than 100!");
+            n = int.Parse(Console.ReadLine());
 
-        n = 3;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        }
+        else
+        {
+            Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        }
 
-        n = 4;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //int n = 1;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
 
-        n = 9;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //n = 2;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
 
-        n = 97;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //n = 3;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
 
-        n = 51;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //n = 4;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
 
-        n = -3;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //n = 9;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
 
-        n = 0;
-        Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+        //n = 97;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+
+        //n = 51;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+
+        //n = -3;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
+
+        //n = 0;
+        //Console.WriteLine("Is {0} a prime number? {1}", n, isPrime(n));
         
     }
 
