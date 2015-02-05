@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractBitFromInteger", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBitAtPosition", "CheckBitAtPosition\CheckBitAtPosition.csproj", "{EA02A186-0AE9-4D41-B2CB-89AFECD5DE6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyBitAtPosition", "ModifyBitAtPosition\ModifyBitAtPosition.csproj", "{4FFC5379-6368-4E32-AE23-FA4C6B97B795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsExchange", "BitsExchange\BitsExchange.csproj", "{1E192C39-794B-4926-A47F-FFF1EC56D291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -85,6 +89,14 @@ Global
 		{EA02A186-0AE9-4D41-B2CB-89AFECD5DE6B}.Debug|x86.Build.0 = Debug|x86
 		{EA02A186-0AE9-4D41-B2CB-89AFECD5DE6B}.Release|x86.ActiveCfg = Release|x86
 		{EA02A186-0AE9-4D41-B2CB-89AFECD5DE6B}.Release|x86.Build.0 = Release|x86
+		{4FFC5379-6368-4E32-AE23-FA4C6B97B795}.Debug|x86.ActiveCfg = Debug|x86
+		{4FFC5379-6368-4E32-AE23-FA4C6B97B795}.Debug|x86.Build.0 = Debug|x86
+		{4FFC5379-6368-4E32-AE23-FA4C6B97B795}.Release|x86.ActiveCfg = Release|x86
+		{4FFC5379-6368-4E32-AE23-FA4C6B97B795}.Release|x86.Build.0 = Release|x86
+		{1E192C39-794B-4926-A47F-FFF1EC56D291}.Debug|x86.ActiveCfg = Debug|x86
+		{1E192C39-794B-4926-A47F-FFF1EC56D291}.Debug|x86.Build.0 = Debug|x86
+		{1E192C39-794B-4926-A47F-FFF1EC56D291}.Release|x86.ActiveCfg = Release|x86
+		{1E192C39-794B-4926-A47F-FFF1EC56D291}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
