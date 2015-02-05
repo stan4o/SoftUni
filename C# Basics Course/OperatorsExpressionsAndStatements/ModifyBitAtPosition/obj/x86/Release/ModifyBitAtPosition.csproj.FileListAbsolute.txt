@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ModifyBitAtPosition\bin\Release\ModifyBitAtPosition.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ModifyBitAtPosition\bin\Release\ModifyBitAtPosition.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ModifyBitAtPosition\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ModifyBitAtPosition\obj\x86\Release\ModifyBitAtPosition.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ModifyBitAtPosition\obj\x86\Release\ModifyBitAtPosition.pdb
