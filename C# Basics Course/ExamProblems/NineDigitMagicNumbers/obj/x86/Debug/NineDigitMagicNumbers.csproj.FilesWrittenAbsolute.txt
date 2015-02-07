@@ -1,0 +1,5 @@
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/NineDigitMagicNumbers/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/NineDigitMagicNumbers/bin/Debug/NineDigitMagicNumbers.exe.mdb
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/NineDigitMagicNumbers/bin/Debug/NineDigitMagicNumbers.exe
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/NineDigitMagicNumbers/obj/x86/Debug/NineDigitMagicNumbers.exe
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/NineDigitMagicNumbers/obj/x86/Debug/NineDigitMagicNumbers.exe.mdb

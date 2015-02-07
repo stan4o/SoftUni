@@ -1,0 +1,5 @@
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/Sunglasses/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/Sunglasses/bin/Debug/Sunglasses.exe.mdb
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/Sunglasses/bin/Debug/Sunglasses.exe
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/Sunglasses/obj/x86/Debug/Sunglasses.exe
+/home/awedxz/GitHub/C# Basics Course/ExamProblems/Sunglasses/obj/x86/Debug/Sunglasses.exe.mdb
