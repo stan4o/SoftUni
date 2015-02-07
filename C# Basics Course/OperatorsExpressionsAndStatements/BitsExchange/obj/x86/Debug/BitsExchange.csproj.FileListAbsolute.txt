@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\BitsExchange\bin\Debug\BitsExchange.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\BitsExchange\bin\Debug\BitsExchange.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\BitsExchange\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\BitsExchange\obj\x86\Debug\BitsExchange.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\BitsExchange\obj\x86\Debug\BitsExchange.pdb

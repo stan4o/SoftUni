@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\DivideBySevenAndFive\bin\Release\DivideBySevenAndFive.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\DivideBySevenAndFive\bin\Release\DivideBySevenAndFive.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\DivideBySevenAndFive\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\DivideBySevenAndFive\obj\x86\Release\DivideBySevenAndFive.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\DivideBySevenAndFive\obj\x86\Release\DivideBySevenAndFive.pdb

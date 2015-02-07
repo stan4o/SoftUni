@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Release\BooleanVariable.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Release\BooleanVariable.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\x86\Release\BooleanVariable.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\x86\Release\BooleanVariable.pdb

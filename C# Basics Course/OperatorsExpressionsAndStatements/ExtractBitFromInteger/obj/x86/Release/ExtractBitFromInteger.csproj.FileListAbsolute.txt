@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Release\ExtractBitFromInteger.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Release\ExtractBitFromInteger.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\x86\Release\ExtractBitFromInteger.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\x86\Release\ExtractBitFromInteger.pdb

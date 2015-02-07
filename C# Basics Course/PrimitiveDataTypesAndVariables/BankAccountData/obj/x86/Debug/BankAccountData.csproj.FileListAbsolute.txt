@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Debug\BankAccountData.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Debug\BankAccountData.pdb

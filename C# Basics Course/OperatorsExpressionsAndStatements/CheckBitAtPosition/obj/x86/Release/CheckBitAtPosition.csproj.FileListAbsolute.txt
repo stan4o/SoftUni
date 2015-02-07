@@ -1,0 +1,5 @@
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\CheckBitAtPosition\bin\Release\CheckBitAtPosition.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\CheckBitAtPosition\bin\Release\CheckBitAtPosition.pdb
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\CheckBitAtPosition\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\CheckBitAtPosition\obj\x86\Release\CheckBitAtPosition.exe
+D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\CheckBitAtPosition\obj\x86\Release\CheckBitAtPosition.pdb

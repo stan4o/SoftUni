@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\x86\Debug\FloatOrDouble.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\x86\Debug\FloatOrDouble.pdb

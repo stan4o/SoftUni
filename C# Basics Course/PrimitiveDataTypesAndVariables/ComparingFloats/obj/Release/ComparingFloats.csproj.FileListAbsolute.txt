@@ -1,0 +1,6 @@
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Release\ComparingFloats.exe.config
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Release\ComparingFloats.exe
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Release\ComparingFloats.pdb
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Release\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Release\ComparingFloats.exe
+C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Release\ComparingFloats.pdb

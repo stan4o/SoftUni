@@ -1,0 +1,5 @@
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Release\QuotesInStrings.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Release\QuotesInStrings.pdb
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\x86\Release\ResolveAssemblyReference.cache
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\x86\Release\QuotesInStrings.exe
+D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\x86\Release\QuotesInStrings.pdb
