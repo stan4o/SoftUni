@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\bin\Release\BankAccountData.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\bin\Release\BankAccountData.pdb
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Release\BankAccountData.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\BankAccountData\obj\x86\Release\BankAccountData.pdb

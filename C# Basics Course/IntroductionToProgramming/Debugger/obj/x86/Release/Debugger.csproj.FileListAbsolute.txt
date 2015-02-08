@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\Debugger\bin\Release\Debugger.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\Debugger\bin\Release\Debugger.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\Debugger\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\Debugger\obj\x86\Release\Debugger.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\Debugger\obj\x86\Release\Debugger.pdb

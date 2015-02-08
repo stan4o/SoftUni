@@ -1,5 +1,0 @@
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\Rectangles\bin\Release\Rectangles.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\Rectangles\bin\Release\Rectangles.pdb
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\Rectangles\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\Rectangles\obj\x86\Release\Rectangles.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\Rectangles\obj\x86\Release\Rectangles.pdb

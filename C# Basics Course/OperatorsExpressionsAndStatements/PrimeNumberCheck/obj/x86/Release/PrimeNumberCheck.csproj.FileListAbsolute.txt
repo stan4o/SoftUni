@@ -1,5 +1,0 @@
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PrimeNumberCheck\bin\Release\PrimeNumberCheck.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PrimeNumberCheck\bin\Release\PrimeNumberCheck.pdb
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PrimeNumberCheck\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PrimeNumberCheck\obj\x86\Release\PrimeNumberCheck.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\PrimeNumberCheck\obj\x86\Release\PrimeNumberCheck.pdb

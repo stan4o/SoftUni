@@ -1,5 +1,0 @@
-C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Release\PrintASCIITable.exe.config
-C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Release\PrintASCIITable.exe
-C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Release\PrintASCIITable.pdb
-C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\PrintASCIITable\obj\Release\PrintASCIITable.exe
-C:\Users\иьвс\Desktop\PrimitiveDataTypesAndVariables\PrintASCIITable\obj\Release\PrintASCIITable.pdb

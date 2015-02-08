@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\SquareRoot\bin\Release\SquareRoot.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\SquareRoot\bin\Release\SquareRoot.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\SquareRoot\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\SquareRoot\obj\x86\Release\SquareRoot.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\SquareRoot\obj\x86\Release\SquareRoot.pdb

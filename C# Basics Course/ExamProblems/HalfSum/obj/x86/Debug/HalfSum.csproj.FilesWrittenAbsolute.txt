@@ -1,5 +1,0 @@
-/home/awedxz/GitHub/C# Basics Course/ExamProblems/HalfSum/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
-/home/awedxz/GitHub/C# Basics Course/ExamProblems/HalfSum/bin/Debug/HalfSum.exe.mdb
-/home/awedxz/GitHub/C# Basics Course/ExamProblems/HalfSum/bin/Debug/HalfSum.exe
-/home/awedxz/GitHub/C# Basics Course/ExamProblems/HalfSum/obj/x86/Debug/HalfSum.exe
-/home/awedxz/GitHub/C# Basics Course/ExamProblems/HalfSum/obj/x86/Debug/HalfSum.exe.mdb

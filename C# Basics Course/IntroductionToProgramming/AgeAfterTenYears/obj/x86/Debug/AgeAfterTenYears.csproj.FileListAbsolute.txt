@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\AgeAfterTenYears\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\AgeAfterTenYears\obj\x86\Debug\AgeAfterTenYears.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\AgeAfterTenYears\obj\x86\Debug\AgeAfterTenYears.pdb

@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\bin\Release\UnicodeCharacter.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\bin\Release\UnicodeCharacter.pdb
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\obj\x86\Release\UnicodeCharacter.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\obj\x86\Release\UnicodeCharacter.pdb

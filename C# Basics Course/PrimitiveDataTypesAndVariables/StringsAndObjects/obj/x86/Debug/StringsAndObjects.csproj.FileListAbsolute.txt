@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\x86\Debug\StringsAndObjects.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\x86\Debug\StringsAndObjects.pdb

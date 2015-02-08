@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\bin\Release\CurrentDateTime.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\bin\Release\CurrentDateTime.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Release\CurrentDateTime.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\CurrentDateTime\obj\x86\Release\CurrentDateTime.pdb

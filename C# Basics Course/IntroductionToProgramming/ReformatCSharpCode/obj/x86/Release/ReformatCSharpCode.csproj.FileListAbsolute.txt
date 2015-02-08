@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\ReformatCSharpCode\bin\Release\ReformatCSharpCode.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\ReformatCSharpCode\bin\Release\ReformatCSharpCode.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\ReformatCSharpCode\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\ReformatCSharpCode\obj\x86\Release\ReformatCSharpCode.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\ReformatCSharpCode\obj\x86\Release\ReformatCSharpCode.pdb

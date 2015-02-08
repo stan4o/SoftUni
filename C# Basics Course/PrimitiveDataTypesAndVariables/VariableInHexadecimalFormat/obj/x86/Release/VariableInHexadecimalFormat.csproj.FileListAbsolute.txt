@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\bin\Release\VariableInHexadecimalFormat.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\bin\Release\VariableInHexadecimalFormat.pdb
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\x86\Release\VariableInHexadecimalFormat.exe
-D:\GitHub\CSharp-Projects\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\x86\Release\VariableInHexadecimalFormat.pdb

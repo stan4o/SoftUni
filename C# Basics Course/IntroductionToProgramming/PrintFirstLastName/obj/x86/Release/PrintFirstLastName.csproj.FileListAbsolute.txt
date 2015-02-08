@@ -1,5 +1,0 @@
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintFirstLastName\bin\Release\PrintFirstLastName.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintFirstLastName\bin\Release\PrintFirstLastName.pdb
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintFirstLastName\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintFirstLastName\obj\x86\Release\PrintFirstLastName.exe
-D:\GitHub\CSharp-Projects\Intro-Programming-CSharp\PrintFirstLastName\obj\x86\Release\PrintFirstLastName.pdb

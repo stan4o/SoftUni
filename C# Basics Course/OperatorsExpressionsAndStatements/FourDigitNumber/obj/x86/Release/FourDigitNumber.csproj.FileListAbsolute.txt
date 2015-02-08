@@ -1,5 +1,0 @@
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Release\FourDigitNumber.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\FourDigitNumber\bin\Release\FourDigitNumber.pdb
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\FourDigitNumber\obj\x86\Release\ResolveAssemblyReference.cache
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\FourDigitNumber\obj\x86\Release\FourDigitNumber.exe
-D:\GitHub\SoftUni\trunk\C# Basics Course\OperatorsExpressionsAndStatements\FourDigitNumber\obj\x86\Release\FourDigitNumber.pdb
