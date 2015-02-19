@@ -10,6 +10,8 @@
 ( http://judge.softuni.bg/Contests/Practice/Index/3#0 )
 	- Volleyball
 	- Odd / Even Sum
+	- Eclipse
+	- HayvanNumbers
 	- Bits Up
 
 3. C# Basics Exam 11 April 2014 Morning
