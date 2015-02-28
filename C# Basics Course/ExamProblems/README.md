@@ -17,5 +17,6 @@
 3. C# Basics Exam 11 April 2014 Morning
 ( http://judge.softuni.bg/Contests/Practice/Index/4#0 )
 	- Work Hours
-	- Sum of elements
+	- Sum Of Elements
 	- The Explorer
+	- Bits Sifting
