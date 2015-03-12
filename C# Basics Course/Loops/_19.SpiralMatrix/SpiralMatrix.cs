@@ -7,7 +7,6 @@ namespace _19.SpiralMatrix
 		public static void Main()
 		{
 			Console.WriteLine("Enter number for the spiral matrix!");
-			// Error: Array Index out of range.
 
 			try
 			{
