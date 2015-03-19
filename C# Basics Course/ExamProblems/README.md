@@ -19,4 +19,5 @@
 	- Work Hours
 	- Sum Of Elements
 	- The Explorer
+	- Magic Strings
 	- Bits Sifting
