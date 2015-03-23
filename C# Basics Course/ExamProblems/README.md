@@ -21,3 +21,8 @@
 	- The Explorer
 	- Magic Strings
 	- Bits Sifting
+
+4. Programming Basics March Lab
+( https://judge.softuni.bg/Contests/Practice/Index/77#0 )
+	- Beers
+	- Fun With Matrices
